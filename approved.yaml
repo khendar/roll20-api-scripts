@@ -211,3 +211,56 @@ bouncetokens:
 htmlbuilder:
 - "HtmlBuilder"
 - "Utility"
+
+itsatraptheme5eogl:
+- "ItsATrap_theme_5E_OGL"
+- "System Toolbox"
+
+itsatrapthemepathfindersimple:
+- "ItsATrap_theme_PathfinderSimple"
+- "System Toolbox"
+
+areasofeffect:
+- "AreasOfEffect"
+- "Tokens"
+
+observer:
+- "Observer"
+- "Character"
+
+tagmar:
+- "Tagmar"
+- "System Toolbox"
+
+walls:
+- "Walls"
+- "Dynamic Lighting"
+
+customizablerolllistener:
+- "Customizable-Roll-Listener"
+- "Chat"
+
+roll20audiomaster:
+- "Roll20-Audio-Master"
+- "Jukebox"
+
+groupcheck:
+- "GroupCheck"
+- "Character"
+
+mythicgm:
+- "MythicGM"
+- "System Toolbox"
+
+markov:
+- "Markov"
+- "Character"
+
+fumbler:
+- "Fumbler"
+- "Character"
+
+critical:
+- "Critical"
+- "Character"
+
